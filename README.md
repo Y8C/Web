@@ -1,2 +1,2 @@
 # Web
-Project odf a personal webpage
+Project of a personal webpage
